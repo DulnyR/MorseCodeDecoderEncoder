@@ -1,0 +1,3 @@
+C:/Users/Radek/Documents/College/2nd Year/Programming/MorseNew/cmake-build-debug/CMakeFiles/MorseNew.dir
+C:/Users/Radek/Documents/College/2nd Year/Programming/MorseNew/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Radek/Documents/College/2nd Year/Programming/MorseNew/cmake-build-debug/CMakeFiles/rebuild_cache.dir
